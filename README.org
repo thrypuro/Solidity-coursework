@@ -1,0 +1,17 @@
+#+title: Readme
+
+* What is it?
+Coursework and report of a university course at University of Edinburgh.
+
+* First coursework
+A simple multiplier dice game where two players gamble a couple of eth, where there is 50-50 chance for each player to win. For example, if the dice rolls 1-3 Player A wins, if 4-6 rolls then Player B wins.
+
+While this game is quite easy to implement in conventional programming languages, the concept of randomness is hard to implement in Solidity.
+
+Hence, a commitment scheme is implemented. Read the pdf for info.
+
+
+* Second coursework
+Had to make my own token, that could be mint but only by a owner. Although it would be better to just do the conventional ERC20 way to implement a ethereum token.
+
+This is purely a educational to learn about how tokens are implemented.
